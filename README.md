@@ -1,3 +1,6 @@
 - Bacon
 - Eggs
 - Xbox
+- Milk
+- Diet Coke
+- Peanut Butter
